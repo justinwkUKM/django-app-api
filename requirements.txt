@@ -5,7 +5,7 @@ djangorestframework==3.11.0
 entrypoints==0.3
 flake8==3.7.9
 mccabe==0.6.1
-numpy==1.18.2
+numpy==1.22.0
 psycopg2==2.8.4
 pycodestyle==2.5.0
 pyflakes==2.1.1
